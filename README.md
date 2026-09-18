@@ -212,4 +212,4 @@ AIDA64 is provided as a complete free version, including all features and update
 Don’t wait any longer! Download AIDA64 now and unlock the full potential of your computer.
 
 ---
-**Last updated:** 2026-09-18 19:21:15 UTC
+**Last updated:** 2026-09-18 22:07:39 UTC
